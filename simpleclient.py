@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3 
 """Russell Zachary Feeser | Alta3 Research
    @rzfeeser              | https://alta3.com
 
